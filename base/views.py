@@ -4,4 +4,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def taskList(request):
-    return HttpResponse('To do list')
+    return HttpResponse('To-do list')
